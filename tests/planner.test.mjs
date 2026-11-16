@@ -51,3 +51,10 @@ test('founder and contact', () => {
   assert.equal(site.team[0].name, 'Samuel Akinwale');
   assert.equal(site.email, 'samuel@dockthimble.site');
 });
+
+test('founding team: founder, co-founder and CTO', async () => {
+  const {default: s} = await import('../src/content.js');
+  const {strict: a} = await import('node:assert');
+  a.deepEqual(s.team.map((p) => p.role), ['Founder', 'Co-founder', 'CTO']);
+  for (const p of s.team) a.ok(p.bio.length > 60 && p.focus.length === 3 && p.initials.length === 2);
+});

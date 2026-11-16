@@ -9,6 +9,8 @@ const site = {
   email: 'samuel@dockthimble.site',
   team: [
     {name: 'Samuel Akinwale', role: 'Founder', initials: 'SA', bio: 'Samuel founded DockThimble after watching yards fill with trucks booked into one-hour slots for jobs that take two — and dock teams standing idle an hour later. Samuel leads product, customers and every pilot.', focus: ['Product', 'Warehouse pilots', 'Dock operations']},
+    {name: 'Funmilayo Bakare', role: 'Co-founder', initials: 'FB', bio: "Funmilayo ran inbound operations at a Lagos distribution centre and leads operations at DockThimble: pilot warehouses, dock-planner training and carrier workflows.", focus: ["Warehouse operations", "Dock planning", "Pilot warehouses"]},
+    {name: 'Ikenna Chukwuma', role: 'CTO', initials: 'IC', bio: "Ikenna leads engineering: turnaround imports, document reading, the duration models, the door-and-team planner and the AWS platform it runs on.", focus: ["Scheduling systems", "Machine learning", "AWS infrastructure"]},
   ],
   stats: [
     {value: '39.3%', label: 'Share of stops in 2023 at which US truck drivers were detained — held beyond two hours waiting for loading or unloading.', source: 'ATRI, Costs and Consequences of Truck Driver Detention (2024)', url: 'https://truckingresearch.org/wp-content/uploads/2024/09/ATRI-Costs-and-Consequences-of-Truck-Driver-Detention-09-2024.pdf'},

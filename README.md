@@ -4,7 +4,7 @@
 
 DockThimble helps warehouses (third-party logistics providers, distribution centres, wholesalers and manufacturing warehouses) schedule vehicle arrivals around realistic loading and unloading times. A machine-learning model predicts appointment duration from shipment size, handling requirements, staffing and previous turnaround records. DockThimble then plans doors and teams, warns about queues, and suggests changes when vehicles arrive late. Dock planners decide.
 
-> DockThimble is a proposed product. Pricing is illustrative and the prototype uses fictional data. Founder: **Samuel Akinwale**. Website: `dockthimble.site` · contact: `samuel@dockthimble.site`. LinkedIn availability for `dockthimble` / `dock-thimble` is unconfirmed, so no page is linked. Organisation types named on the site are prospective customers with no implied affiliation.
+> DockThimble is a proposed product. Pricing is illustrative and the prototype uses fictional data. Founder: **Samuel Akinwale**; co-founder **Funmilayo Bakare**; CTO **Ikenna Chukwuma**. Website: `dockthimble.site` · contact: `samuel@dockthimble.site`. LinkedIn availability for `dockthimble` / `dock-thimble` is unconfirmed, so no page is linked. Organisation types named on the site are prospective customers with no implied affiliation.
 
 ## Design
 
